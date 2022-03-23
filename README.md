@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KMaina-N
 - 👀 I’m interested in python software development, machine learning and AI development
-- 🌱 I’m currently learning general machine learning
+- 🌱 I’m currently learning machine learning and django framework
 - 💞️ I’m looking to collaborate on any python related projects
 - 📫 How to reach me kelvinmaina350@gmail.com
 
