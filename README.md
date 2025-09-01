@@ -23,6 +23,7 @@
 ![Next](https://img.shields.io/badge/-Next.Js-000?&logo=nextdotjs)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
 
 
