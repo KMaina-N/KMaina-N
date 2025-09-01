@@ -14,13 +14,13 @@
 
 ### Technologies
 
-![Azure](https://img.shields.io/badge/-AWS-000?&logo=Azure&logoColor=F90)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next](https://img.shields.io/badge/-nextdotjs-000?&logo=nextdotjs)
+![Next](https://img.shields.io/badge/-Next.Js-000?&logo=nextdotjs)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 
